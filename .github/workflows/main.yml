@@ -25,7 +25,7 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         local-dir: "/"  # Point to your Laravel project root
         server-dir: "/"  # Your server path
-        exclude: |
+        include: |
           .git*
           node_modules/
           vendor/
