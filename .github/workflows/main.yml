@@ -20,7 +20,7 @@ jobs:
         server: "ftp.marcalinvestment.com"  # Your FTP server
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: "backenda/"
+        local-dir: "/"
          # Point to your Laravel project root
         server-dir: "/"  # Your server path
         exclude: |
