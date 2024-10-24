@@ -23,16 +23,16 @@ jobs:
         server: "ftp.marcalinvestment.com"  # Your FTP server
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: "/"  # Point to your Laravel project root
-        server-dir: "/"  # Your server path
-        include: |
-          .git*
+        local-dir: "./"  # Adjust to point to your project's public directory
+        server-dir: "/public_html"  # Change to your appropriate server path
+        include: |  # Use include to specify files and directories to deploy
           node_modules/
           vendor/
           storage/
           tests/
           *.md
           .env
+          lost+found/
 
     - name: 🚀 Post-Deployment
       run: echo "Deployment complete!"
