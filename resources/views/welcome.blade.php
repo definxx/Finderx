@@ -77,7 +77,7 @@
 
 <!-- Header Starts -->
 <div class="header">
-<a href="index.php"><img src="images/logo.png" alt="Realestate"></a>
+<a href="index.php"><img src="public/coco/images/logo.png" alt="Realestate"></a>
 
               <ul class="pull-right">
                 <li><a href="buysalerent.php">Buy</a></li>
@@ -223,7 +223,7 @@
     <h2>Featured Properties</h2>
     <div id="owl-example" class="owl-carousel">
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+        <div class="image-holder"><img src="public/coco/images/properties/1.jpg" class="img-responsive" alt="properties"/>
           <div class="status sold">Sold</div>
         </div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
@@ -232,7 +232,7 @@
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties"/>
+        <div class="image-holder"><img src="public/coco/images/properties/2.jpg" class="img-responsive" alt="properties"/>
           <div class="status new">New</div>
         </div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
@@ -241,21 +241,21 @@
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties"/></div>
+        <div class="image-holder"><img src="public/coco/images/properties/3.jpg" class="img-responsive" alt="properties"/></div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
         <p class="price">Price: $234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties"/></div>
+        <div class="image-holder"><img src="public/coco/images/properties/4.jpg" class="img-responsive" alt="properties"/></div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
         <p class="price">Price: $234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties"/>
+        <div class="image-holder"><img src="public/coco/images/properties/1.jpg" class="img-responsive" alt="properties"/>
           <div class="status sold">Sold</div>
         </div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
@@ -264,7 +264,7 @@
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties"/>
+        <div class="image-holder"><img src="public/coco/images/properties/2.jpg" class="img-responsive" alt="properties"/>
           <div class="status sold">Sold</div>
         </div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
@@ -273,7 +273,7 @@
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties"/>
+        <div class="image-holder"><img src="public/coco/images/properties/3.jpg" class="img-responsive" alt="properties"/>
           <div class="status new">New</div>
         </div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
@@ -282,28 +282,28 @@
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/4.jpg" class="img-responsive" alt="properties"/></div>
+        <div class="image-holder"><img src="public/coco/images/properties/4.jpg" class="img-responsive" alt="properties"/></div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
         <p class="price">Price: $234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/1.jpg" class="img-responsive" alt="properties"/></div>
+        <div class="image-holder"><img src="public/coco/images/properties/1.jpg" class="img-responsive" alt="properties"/></div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
         <p class="price">Price: $234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/2.jpg" class="img-responsive" alt="properties"/></div>
+        <div class="image-holder"><img src="public/coco/images/properties/2.jpg" class="img-responsive" alt="properties"/></div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
         <p class="price">Price: $234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
         <a class="btn btn-primary" href="property-detail.php">View Details</a>
       </div>
       <div class="properties">
-        <div class="image-holder"><img src="images/properties/3.jpg" class="img-responsive" alt="properties"/></div>
+        <div class="image-holder"><img src="public/coco/images/properties/3.jpg" class="img-responsive" alt="properties"/></div>
         <h4><a href="property-detail.php">Royal Inn</a></h4>
         <p class="price">Price: $234,900</p>
         <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
@@ -332,7 +332,7 @@
           <div class="carousel-inner">
             <div class="item active">
               <div class="row">
-                <div class="col-lg-4"><img src="images/properties/1.jpg" class="img-responsive" alt="properties"/></div>
+                <div class="col-lg-4"><img src="public/coco/images/properties/1.jpg" class="img-responsive" alt="properties"/></div>
                 <div class="col-lg-8">
                   <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
                   <p class="price">$300,000</p>
@@ -341,7 +341,7 @@
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-lg-4"><img src="images/properties/2.jpg" class="img-responsive" alt="properties"/></div>
+                <div class="col-lg-4"><img src="public/coco/images/properties/2.jpg" class="img-responsive" alt="properties"/></div>
                 <div class="col-lg-8">
                   <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
                   <p class="price">$300,000</p>
@@ -350,7 +350,7 @@
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-lg-4"><img src="images/properties/3.jpg" class="img-responsive" alt="properties"/></div>
+                <div class="col-lg-4"><img src="public/coco/images/properties/3.jpg" class="img-responsive" alt="properties"/></div>
                 <div class="col-lg-8">
                   <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
                   <p class="price">$300,000</p>
@@ -359,7 +359,7 @@
             </div>
             <div class="item">
               <div class="row">
-                <div class="col-lg-4"><img src="images/properties/4.jpg" class="img-responsive" alt="properties"/></div>
+                <div class="col-lg-4"><img src="public/coco/images/properties/4.jpg" class="img-responsive" alt="properties"/></div>
                 <div class="col-lg-8">
                   <h5><a href="property-detail.php">Integer sed porta quam</a></h5>
                   <p class="price">$300,000</p>
@@ -402,10 +402,10 @@
             
             <div class="col-lg-3 col-sm-3">
                     <h4>Follow us</h4>
-                    <a href="#"><img src="images/facebook.png" alt="facebook"></a>
-                    <a href="#"><img src="images/twitter.png" alt="twitter"></a>
-                    <a href="#"><img src="images/linkedin.png" alt="linkedin"></a>
-                    <a href="#"><img src="images/instagram.png" alt="instagram"></a>
+                    <a href="#"><img src="public/coco/images/facebook.png" alt="facebook"></a>
+                    <a href="#"><img src="public/coco/images/twitter.png" alt="twitter"></a>
+                    <a href="#"><img src="public/coco/images/linkedin.png" alt="linkedin"></a>
+                    <a href="#"><img src="public/coco/images/instagram.png" alt="instagram"></a>
             </div>
 
              <div class="col-lg-3 col-sm-3">
