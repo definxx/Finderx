@@ -5,27 +5,27 @@
 <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
- 	<link rel="stylesheet" href="coco/assets/bootstrap/css/bootstrap.css" />
-  <link rel="stylesheet" href="coco/assets/style.css"/>
+ 	<link rel="stylesheet" href="public/coco/assets/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="public/coco/assets/style.css"/>
   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-	<script src="coco/assets/bootstrap/js/bootstrap.js"></script>
-  <script src="coco/assets/script.js"></script>
+	<script src="public/coco/assets/bootstrap/js/bootstrap.js"></script>
+  <script src="public/coco/assets/script.js"></script>
 
 
 
 <!-- Owl stylesheet -->
-<link rel="stylesheet" href="coco/assets/owl-carousel/owl.carousel.css">
-<link rel="stylesheet" href="coco/assets/owl-carousel/owl.theme.css">
-<script src="coco/assets/owl-carousel/owl.carousel.js"></script>
+<link rel="stylesheet" href="public/coco/assets/owl-carousel/owl.carousel.css">
+<link rel="stylesheet" href="public/coco/assets/owl-carousel/owl.theme.css">
+<script src="public/coco/assets/owl-carousel/owl.carousel.js"></script>
 <!-- Owl stylesheet -->
 
 
 <!-- slitslider -->
-    <link rel="stylesheet" type="text/css" href="coco/assets/slitslider/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="coco/assets/slitslider/css/custom.css" />
-    <script type="text/javascript" src="coco/assets/slitslider/js/modernizr.custom.79639.js"></script>
-    <script type="text/javascript" src="coco/assets/slitslider/js/jquery.ba-cond.min.js"></script>
-    <script type="text/javascript" src="coco/assets/slitslider/js/jquery.slitslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="public/coco/assets/slitslider/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="public/coco/assets/slitslider/css/custom.css" />
+    <script type="text/javascript" src="public/coco/assets/slitslider/js/modernizr.custom.79639.js"></script>
+    <script type="text/javascript" src="public/coco/assets/slitslider/js/jquery.ba-cond.min.js"></script>
+    <script type="text/javascript" src="public/coco/assets/slitslider/js/jquery.slitslider.js"></script>
 <!-- slitslider -->
 
 </head>
